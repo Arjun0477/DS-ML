@@ -15,3 +15,19 @@ print("Reconstructed Matrix:\n",B)
 
 
   =========OUTPUT======
+
+[[1 2]
+ [3 4]]
+Left Singular Matrix
+[[-0.40455358 -0.9145143 ]
+ [-0.9145143   0.40455358]]
+Singular Matrix
+[5.4649857  0.36596619]
+Right Singular Matrix
+[[-0.57604844 -0.81741556]
+ [ 0.81741556 -0.57604844]]
+Reconstructed Matrix:
+ [[1. 2.]
+ [3. 4.]]
+
+Process finished with exit code 0
